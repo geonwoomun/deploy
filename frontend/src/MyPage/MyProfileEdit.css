@@ -1,0 +1,76 @@
+.MyProfile-Edit{
+    margin: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 30px;
+    background: white;
+}
+.MyProfile-Edit-Secend{
+    border: 1px solid rgb(131, 131, 131, 80%);
+    border-bottom: none;
+    background: none;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.MyProfile-Edit-Secend2{
+    border: 1px solid rgb(131, 131, 131, 80%);
+}
+.MPEdit-Title{
+    width: 15%;
+    margin: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+    align-self: flex-start
+}
+
+.MPEdit-Cell{
+    width:70%;
+    margin: 30px;
+    margin-left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.MPEdit-Photo{
+    margin-right: 15px;
+    width: 175px;
+    height: 175px;
+    background: gray;
+
+    border-radius: 50%;
+    border: 1px solid gray;
+    background: gray;
+}
+.MPEdit-Photo-Edit{
+    width:60%;
+    display: flex;
+    justify-content: space-around;
+}
+.MPEdit-Subtitle{
+    width:87px;
+    font-size: 17px;
+    display: block;
+}
+.MPEdit-Photo-Input{
+    width: 200px;
+}
+
+.MPEdit-TdCell-Btn{
+    margin-left: 5px;
+    width: 90px;
+    height: 28px;
+    border: 0;
+    outline: 0;
+    font-size: 17px;
+    justify-self: end;
+}
+.MPEdit-TdCell-Input{
+    width: 150px;
+}
+.MPEdit-TdCell-Textarea{
+    
+}
